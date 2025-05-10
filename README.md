@@ -15,7 +15,7 @@ const functionName = (params) => {
 - **The arrow syntax:** Indicates that this will be a function.
 - **The body:** The statements that make up the function itself. Surrounded by curly braces.
 
-Example:
+**Example:**
 ```javascript
 const greet = (name) => {
   console.log("Hello, " + name + "!");
@@ -36,7 +36,7 @@ greet('Alice'); // Outputs: Hello, Alice!`
 
 Functions can process data input and output a value using the *return* keyword.
 
-Example:
+**Example:**
 ```javascript
 const addNums = (numA, numB) => {
   return numA + numB
